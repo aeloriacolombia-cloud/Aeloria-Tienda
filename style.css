@@ -490,5 +490,16 @@ padding:40px 20px;
     border-color:#c9a96e;
     box-shadow:0 0 10px rgba(201,169,110,0.3);
 }
+.products-grid{
+    grid-template-columns:repeat(2,1fr);
+    gap:15px;
+}
 
+.product img{
+    height:180px;
+}
+
+h2{
+    font-size:32px;
+}
 }
