@@ -42,7 +42,7 @@ Aeloria-Tienda/
 1. Clonar el repositorio:
 
 bash
-git clone https://github.com/aeloriacolombia-cloud/Aeloria-Tienda.git
+git clone https://github.com/aAeloriacolombia/Aeloria-Tienda.git
 
 
 2. Abrir el archivo "index.html" en cualquier navegador.
